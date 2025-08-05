@@ -1,4 +1,4 @@
-# 2025_Shivanandan
+# 2025_SenGupta_Shivanandan
 Python scripts for finding CenpA foci and quantifying intensities of CenpA and associated kinetochore proteins.
 
 QuantifyCenpA.ipynb:  For automatically finding and quantifying all CenpA foci in a chromosome spread.  Finds foci in 3D, then subtracts background and smooths, before quantifying and plotting.
